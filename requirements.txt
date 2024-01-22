@@ -1,0 +1,12 @@
+sqlmodel
+psycopg2~=2.9.7
+pydantic~=1.10.12
+SQLAlchemy
+numpy~=1.25.2
+pandas
+dash_iconify
+dash_mantine_components==0.12.1
+dash~=2.11.1
+dash-uploader
+packaging==21.3
+openpyxl
